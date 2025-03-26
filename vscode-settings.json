@@ -1,0 +1,55 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.editor.labelFormat": "short",
+  "workbench.tree.indent": 12,
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "moxer-icons",
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "window.openFoldersInNewWindow": "off",
+  "window.titleBarStyle": "custom",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.45,
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 4,
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.wordWrapColumn": 100,
+  "editor.wordWrap": "bounded",
+  "editor.guides.bracketPairs": "active",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.padding.top": 10,
+  "terminal.integrated.fontFamily": "Menlo NF Regular",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "eslint.format.enable": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "html"
+  ],
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.preferences.jsxAttributeCompletionStyle": "auto",
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "prompt",
+  "typescript.updateImportsOnFileMove.enabled": "prompt",
+  "html.format.wrapAttributes": "force-expand-multiline",
+  "git.openRepositoryInParentFolders": "never"
+}
